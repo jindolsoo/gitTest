@@ -1,2 +1,0 @@
-gitTest 1st.
-modified test2.
