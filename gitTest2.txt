@@ -2,3 +2,4 @@ gitTest2.txt
 commitTest.
 pushTest.
 pullTest.
+del
